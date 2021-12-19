@@ -1,9 +1,5 @@
 # DigitalOceanKubeChallenge
-Deploy an internal container registry for the DigitalOcean Challenge
+This repository is created to complete digital ocean kubernetes challege. The challenge is to deploy an internal container registry and i have used harbor as the internal registry. 
 
 
-## Deploy Harbor with HA using Helm
-Use the below link :
-
-https://goharbor.io/docs/2.4.0/install-config/harbor-ha-helm/
 

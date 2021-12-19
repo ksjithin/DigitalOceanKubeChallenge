@@ -1,0 +1,12 @@
+expose:
+  type: ingress
+  tls:
+    enabled: false
+  ingress:
+    hosts:
+      core: core.hackerslab.xyz
+      notary: notary.hackerslab.xyz
+externalURL: http://core.hackerslab.xyz
+harborAdminPassword: "@@@@@@@"
+secretKey: "any-secret-key"
+
